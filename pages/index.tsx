@@ -25,7 +25,7 @@ function Home() {
       <header>
         <nav>
           <Link href="/">
-            <a>next-web3-boilerplate</a>
+            <a>myNFT</a>
           </Link>
 
           <Account triedToEagerConnect={triedToEagerConnect} />
@@ -35,7 +35,7 @@ function Home() {
       <main>
         <h1>
           Welcome to myNFT
-          </a>
+          
         </h1>
 
         {isConnected && (
