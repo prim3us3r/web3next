@@ -18,7 +18,7 @@ function Home() {
   return (
     <div>
       <Head>
-        <title>next-web3-boilerplate</title>
+        <title>The New myNFT</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -35,6 +35,7 @@ function Home() {
       <main>
         <h1>
           Welcome to myNFT
+          Built by Fazleenovo
           
         </h1>
 
