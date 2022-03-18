@@ -34,9 +34,7 @@ function Home() {
 
       <main>
         <h1>
-          Welcome to{" "}
-          <a href="https://github.com/mirshko/next-web3-boilerplate">
-            next-web3-boilerplate
+          Welcome to myNFT
           </a>
         </h1>
 
